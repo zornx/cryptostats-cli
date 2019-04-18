@@ -1,0 +1,16 @@
+{
+    "name": "cryptostats-cli",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "cryptostats": "bin/cryptostats"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "axios": "^0.18.0",
+        "blessed": "^0.1.81",
+        "blessed-contrib": "^4.8.15",
+        "moment": "^2.24.0"
+    }
+}
