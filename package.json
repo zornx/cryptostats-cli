@@ -1,16 +1,34 @@
 {
     "name": "cryptostats-cli",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "description": "A CLI app for Cryptocurrency Statistics",
     "license": "MIT",
+    "homepage": "https://github.com/zornx/cryptostats-cli#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zornx/cryptostats-cli.git"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "keywords": [
+        "cryptocurrency",
+        "crypto",
+        "coin",
+        "finance"
+    ],
+    "preferGlobal": true,
     "bin": {
         "cryptostats": "bin/cryptostats"
     },
     "scripts": {},
     "devDependencies": {},
     "dependencies": {
+        "approximate-number": "^2.0.0",
         "axios": "^0.18.0",
         "blessed": "^0.1.81",
         "blessed-contrib": "^4.8.15",
+        "figures": "^3.0.0",
         "moment": "^2.24.0"
     }
 }
