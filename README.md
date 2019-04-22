@@ -1,6 +1,6 @@
 # Cryptocurrency Statistics CLI for Node.js
 
-<img src="./cli-image.png" alt="term" width="800">
+<img src="./cli-image v1.0.1.png" alt="term" width="800">
 
 https://www.npmjs.com/package/cryptostats-cli
 
