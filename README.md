@@ -5,6 +5,12 @@
 ## Requirements
 - Node.js. & NPM
 
+## Instructions
+```sh
+$ npm install -g cryptostats-cli
+$ cryptostats
+```
+
 ## Dependencies
 https://github.com/chjj/blessed
 
